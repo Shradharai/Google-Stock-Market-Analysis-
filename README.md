@@ -9,7 +9,7 @@
 ## Introduction
 This is a practice project involves analyzing Google's stock market data and predicting future stock prices using linear regression. It serves as a practice project to understand the application of linear regression in financial data analysis.
 
-# What is Linear Regression
+### What is Linear Regression
 Linear regression is a statistical method used to model the relationship between a dependent variable (often called the target or outcome variable) and one or more independent variables (often called predictors or features). The goal is to find the best-fitting straight line through the data points that predicts the dependent variable as accurately as possible.
 
 
