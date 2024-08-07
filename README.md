@@ -47,8 +47,8 @@ The data used in this project is historical stock price data for Google, obtaine
 - divCash: Cash dividends paid.
 - splitFactor: Stock split factor.
 
-Target(Dependent Variable): close
-Features(Independent Variable): open, high, low, volume
+- Target(Dependent Variable): close
+- Features(Independent Variable): open, high, low, volume
 
 ## Results
 The linear regression model provides a reasonable estimate of future stock prices based on historical data. The model's performance can be improved with more advanced techniques and additional features.
