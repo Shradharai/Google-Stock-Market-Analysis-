@@ -31,21 +31,21 @@ Linear regression is a statistical method used to model the relationship between
 
 ## Data
 The data used in this project is historical stock price data for Google, obtained https://www.kaggle.com/datasets/abdalrahmanshahrour/googcsv
--Dataset Columns:
--symbol: The stock ticker symbol (e.g., GOOGL for Google).
--date: The trading date.
--close: The closing price of the stock on that date.
--high: The highest price the stock reached on that date.
--low: The lowest price the stock reached on that date.
--open: The price at which the stock opened on that date.
--volume: The number of shares traded on that date.
--adjClose: The adjusted closing price, accounting for any corporate actions.
--adjHigh: The adjusted high price.
--adjLow: The adjusted low price.
--adjOpen: The adjusted open price.
--adjVolume: The adjusted volume of shares traded.
--divCash: Cash dividends paid.
--splitFactor: Stock split factor.
+- Dataset Columns:
+- symbol: The stock ticker symbol (e.g., GOOGL for Google).
+- date: The trading date.
+- close: The closing price of the stock on that date.
+- high: The highest price the stock reached on that date.
+- low: The lowest price the stock reached on that date.
+- open: The price at which the stock opened on that date.
+- volume: The number of shares traded on that date.
+- adjClose: The adjusted closing price, accounting for any corporate actions.
+- adjHigh: The adjusted high price.
+- adjLow: The adjusted low price.
+- adjOpen: The adjusted open price.
+- adjVolume: The adjusted volume of shares traded.
+- divCash: Cash dividends paid.
+- splitFactor: Stock split factor.
 
 Target(Dependent Variable): close
 Features(Independent Variable): open, high, low, volume
